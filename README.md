@@ -4,7 +4,6 @@ Automatic Twitch/Youtube/WASD stream recorder
 ## Dependencies
 * streamlink (I use Streamlink2.2.0 for windows)
 * python3 (I use python3.9.6 for windows)
-* 
 
 Installation for Windows: 
 * install dependencies (streamlink, python3)
