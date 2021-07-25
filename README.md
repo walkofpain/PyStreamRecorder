@@ -11,5 +11,5 @@ Automatic Twitch/Youtube/WASD stream recorder
 * clone this repo or download 
 
 ## Usage:
-* open pystreamrecorder.py in text editor and change stream channel link (supported Twitch/Youtube/WASD links, youtube link with "/live")
+* open **pystreamrecorder.py** in text editor and change stream channel link (supported Twitch/Youtube/WASD links, youtube link with "/live")
 * in cmd/terminal, type ***python pystreamrecorder.py***
