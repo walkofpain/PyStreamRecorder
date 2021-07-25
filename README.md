@@ -8,4 +8,4 @@ Automatic Twitch/Youtube/WASD stream recorder
 
 Installation:
 * Install dependencies (streamlink, python3)
-* Install Python-module **schedule** using cmd/terminal: pip install schedule
+* Install Python-module **schedule** using cmd/terminal: ***pip install schedule***
