@@ -1,2 +1,2 @@
-# pysctreamrecorder
-Automatic Twitch/Youtube stream recorder
+# PyStreamRecorder
+Automatic Twitch/Youtube/WASD stream recorder
