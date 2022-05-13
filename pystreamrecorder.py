@@ -3,7 +3,7 @@ import datetime
 import time
 import subprocess
 
-URL = 'https://www.youtube.com/channel/UCk73U4QT3cNDvqb_PaWM8AA/live' # stream channel link (youtube/twitch/wasd), youtube link with "/live"
+URL = 'https://www.twitch.tv/bratishkinoff' # stream channel link (youtube/twitch/wasd), youtube link with "/live"
 quality = 'best' # choose quality (audio_only, worst, best)
 
 text = '''
