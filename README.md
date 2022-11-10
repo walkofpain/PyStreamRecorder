@@ -1,5 +1,5 @@
 # PyStreamRecorder
-Automatic Twitch/Youtube/WASD stream recorder
+Automatic Twitch/Youtube/WASD/GoodGame stream recorder
 
 ## Dependencies
 * streamlink (I use Streamlink2.2.0 for windows)
